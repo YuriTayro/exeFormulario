@@ -1,0 +1,60 @@
+.page {
+    width: 80%;
+    height: 80%;
+    border: 1px solid;
+    background-color: rgba(0, 0, 0, 0.87);
+
+}
+
+.txt {
+    color: white;
+    text-align: center;
+}
+
+.but{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inBut1{
+    width: 150px;
+    background-color: green;
+}
+
+.inBut2{
+    width: 150px;
+    background-color: gray;
+}
+
+.buttonSet{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+
+.emailPass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.but3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.inBut3{
+    width: 200px;
+    background-color: green;
+    height: 30px;
+}
